@@ -10,7 +10,7 @@ This project's objective is to use a variety of tools and technologies, such as 
 5. **Analytical Results:** The last step is to provide a visual interface for interacting with the changed data. This might include charts, graphs, or any other type of visual aid that enables consumers to examine and evaluate the data. It's a simple method of extracting knowledge from the processed data.
 
 ## Architecture 
-<img src="Architecture.png">
+<img src="Architecture1.png">
 
 ## Tools and Technology used
 * __Python :__ Subsequently, I devised and implemented sophisticated transformation logic using Python, a versatile programming language widely employed in data engineering tasks.
